@@ -1,0 +1,34 @@
+{
+    "name": "PlayerInputActions 1",
+    "maps": [
+        {
+            "name": "Ui",
+            "id": "a9c65d35-4126-46ba-b8a6-5dd586d70e38",
+            "actions": [
+                {
+                    "name": "Esc",
+                    "type": "Button",
+                    "id": "d1baa99c-8dc3-4a66-8a40-666d97521112",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "b00c3cda-bfd9-4543-bba5-9d83117bdaba",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Esc",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

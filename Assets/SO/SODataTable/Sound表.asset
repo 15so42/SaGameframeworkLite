@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 746a6e7540d0c8344b97e0b03c919e6f, type: 3}
+  m_Name: "Sound\u8868"
+  m_EditorClassIdentifier: 
+  soDataRows:
+  - id: 0
+    comment: MainMenuBgm
+    audioClip: {fileID: 8300000, guid: e96909785815daf4e9697cf049fa91b6, type: 3}
+    pitch: {x: 1, y: 1}
+    volume: {x: 0.71880496, y: 0.8008202}
+  - id: 1
+    comment: BattleBgm
+    audioClip: {fileID: 8300000, guid: 033eb39132a120d46b8d2ecc66fd1582, type: 3}
+    pitch: {x: 1, y: 1}
+    volume: {x: 0.51962507, y: 0.51962507}
+  - id: 500
+    comment: "\u5B50\u5F39\u53D1\u5C04"
+    audioClip: {fileID: 8300000, guid: d221b1644d40d0b4882a612981b5f059, type: 3}
+    pitch: {x: 0.9, y: 1.1}
+    volume: {x: 0.225, y: 0.43333334}
+  - id: 501
+    comment: "\u956D\u5C04\u5B50\u5F39\u53D1\u5C04"
+    audioClip: {fileID: 8300000, guid: b45b19776b2e15e48947a75b76ccca86, type: 3}
+    pitch: {x: 0.9, y: 1.1}
+    volume: {x: 0.225, y: 0.43333334}
+  - id: 502
+    comment: "Nova\u5B50\u5F39\u53D1\u5C04"
+    audioClip: {fileID: 8300000, guid: b4ce975868fff68458a47704dd4a8cdf, type: 3}
+    pitch: {x: 0.9, y: 1.1}
+    volume: {x: 0.225, y: 0.43333334}
+  - id: 550
+    comment: "\u5B50\u5F39\u51FB\u4E2D"
+    audioClip: {fileID: 8300000, guid: 70338cd606e32dc46a831d35be80a878, type: 3}
+    pitch: {x: 0.8666667, y: 1.1666667}
+    volume: {x: 0.39166665, y: 0.6333333}
+  - id: 551
+    comment: "\u956D\u5C04\u5B50\u5F39\u51FB\u4E2D"
+    audioClip: {fileID: 8300000, guid: 074cee5e8624aa4428300be00e1d2bd2, type: 3}
+    pitch: {x: 0.8333333, y: 1.15}
+    volume: {x: 0.5333333, y: 0.7}
+  - id: 552
+    comment: "nova\u5B50\u5F39\u51FB\u4E2D"
+    audioClip: {fileID: 8300000, guid: 4e9bff56ee93c6f42b214141e44e763d, type: 3}
+    pitch: {x: 0.8333333, y: 1.15}
+    volume: {x: 0.5333333, y: 0.7}
+  - id: 600
+    comment: "\u9632\u5FA1\u5854\u7206\u70B8"
+    audioClip: {fileID: 8300000, guid: 92d3259b6a9732e4ba3fb95331b2c95d, type: 3}
+    pitch: {x: 0.8333333, y: 1.15}
+    volume: {x: 0.07615739, y: 0.24282408}
+  - id: 601
+    comment: "\u62FE\u53D6\u786C\u5E01"
+    audioClip: {fileID: 8300000, guid: 92547d38210507d42a33e7e4e8220a69, type: 3}
+    pitch: {x: 0.92, y: 1.08}
+    volume: {x: 0.07615739, y: 0.24282408}
+  - id: 602
+    comment: "\u786C\u5E01\u6389\u843D"
+    audioClip: {fileID: 8300000, guid: e1d77442c4b04244985e4d01d98d6011, type: 3}
+    pitch: {x: 0.8794662, y: 1.1377529}
+    volume: {x: 0.19070163, y: 0.87085664}
+  - id: 1000
+    comment: "\u6309\u94AEHover"
+    audioClip: {fileID: 8300000, guid: 2d14f4ee9da2ee94ea51436a380ccaee, type: 3}
+    pitch: {x: 1, y: 1}
+    volume: {x: 1, y: 1}
+  - id: 1001
+    comment: "\u6309\u94AEClick"
+    audioClip: {fileID: 8300000, guid: 02fcee6fa8de1014e8b7ebe8dede62fb, type: 3}
+    pitch: {x: 1, y: 1}
+    volume: {x: 1, y: 1}

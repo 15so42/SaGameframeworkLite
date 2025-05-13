@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f0ee0ae2464ddc47842981d78690c47, type: 3}
+  m_Name: "Entity\u8868"
+  m_EditorClassIdentifier: 
+  soDataRows:
+  - id: 0
+    comment: "\u76F8\u673A"
+    pfb: {fileID: 2139739588105473930, guid: 15137f0a0f99efe46b9d4720f50fe181, type: 3}
+    usePool: 0
+  - id: 500
+    comment: "\u73A9\u5BB6"
+    pfb: {fileID: 511666300232154105, guid: f3b43d6184ab0f342ad700942fc3c10b, type: 3}
+    usePool: 0
+  - id: 501
+    comment: TestDoll
+    pfb: {fileID: 1822426226532707109, guid: 724d81bfe2d4e1848b01fc7fbed5bf68, type: 3}
+    usePool: 0
+  - id: 502
+    comment: "\u91D1\u5E01\u673A"
+    pfb: {fileID: 1918971975161266693, guid: 490c9d5b18ec31e4a8e4df4202f3e87d, type: 3}
+    usePool: 0
+  - id: 503
+    comment: "\u6CBB\u7597\u5854"
+    pfb: {fileID: 9128526723607556684, guid: 8b41c67ee5bc585499eb163e5d420884, type: 3}
+    usePool: 0
+  - id: 504
+    comment: "\u9632\u5FA1\u5854"
+    pfb: {fileID: 2982715299872462172, guid: f71fbb4f62ff40a4f88914c5f24bf7fd, type: 3}
+    usePool: 0
+  - id: 505
+    comment: "\u7814\u53D1\u7AD9"
+    pfb: {fileID: 8245575562497681255, guid: e297b6d6cf7faa143aaccd63cefbc559, type: 3}
+    usePool: 0
+  - id: 506
+    comment: "\u70AE\u53F0"
+    pfb: {fileID: 4624594185001279084, guid: e85631fad2efc0849bd956f1c6a1d505, type: 3}
+    usePool: 0
+  - id: 507
+    comment: "\u602A\u7269"
+    pfb: {fileID: 6719721594773320483, guid: 4d777d1e3616cc94a8aecd4f4b81d68c, type: 3}
+    usePool: 0
+  - id: 508
+    comment: "\u73A9\u5BB6\u5206\u8EAB(\u8054\u673A)"
+    pfb: {fileID: 7208783127229764562, guid: 87317317b937cbf4a9aa972625d7fc6f, type: 3}
+    usePool: 0
+  - id: 1000
+    comment: "\u9ED8\u8BA4\u6B66\u5668"
+    pfb: {fileID: 2709220877698368300, guid: 4d8560b61e2611b48af3ea53256fb578, type: 3}
+    usePool: 0
+  - id: 1500
+    comment: "\u9ED8\u8BA4\u9632\u5177"
+    pfb: {fileID: 6192380390517585627, guid: 1175c14661bf9d24ebef16111c36fd02, type: 3}
+    usePool: 0
+  - id: 2000
+    comment: "\u9ED8\u8BA4\u7279\u6548"
+    pfb: {fileID: 4181739942238104686, guid: 597f30d29a8b8834c8da0feff856d0fd, type: 3}
+    usePool: 1
+  - id: 2001
+    comment: "\u65B9\u7834\u788E\u7279\u6548"
+    pfb: {fileID: 8178014802396567817, guid: 17a762caad1b6c44d86fe28603f3af18, type: 3}
+    usePool: 1
+  - id: 2002
+    comment: "\u9632\u5FA1\u5854\u7206\u70B8\u7279\u6548"
+    pfb: {fileID: 784352126427520089, guid: 47e39f5d33559c34792a979290fa4e6a, type: 3}
+    usePool: 1
+  - id: 2003
+    comment: "\u6CBB\u7597\u7206\u70B8\u7279\u6548"
+    pfb: {fileID: 2381951986214718438, guid: fa27efbc72c3e9c40a0af70cce626316, type: 3}
+    usePool: 1
+  - id: 2004
+    comment: "\u73A9\u5BB6\u6B7B\u4EA1\u7206\u70B8"
+    pfb: {fileID: 6131191960164105343, guid: 3bf9e7f41de3f1542b990deeb653a764, type: 3}
+    usePool: 1
+  - id: 2050
+    comment: "\u956D\u5C04\u5B50\u5F39\u53D1\u5C04\u7279\u6548"
+    pfb: {fileID: 1623544015853907318, guid: aa72a7dcb7742f04baafe43454473758, type: 3}
+    usePool: 1
+  - id: 2100
+    comment: "\u956D\u5C04\u5B50\u5F39\u51FB\u4E2D\u7279\u6548"
+    pfb: {fileID: 8904539907630554573, guid: 22626a02d8326c843b11ca46dbb52fdd, type: 3}
+    usePool: 1
+  - id: 2101
+    comment: "Nova\u5B50\u5F39\u51FB\u4E2D\u7279\u6548"
+    pfb: {fileID: 1973492782195423579, guid: 10c0bb6bc3b7ffb4ea16d05360c84fee, type: 3}
+    usePool: 1
+  - id: 2500
+    comment: "\u9ED8\u8BA4\u5B50\u5F39"
+    pfb: {fileID: 3798575060225942240, guid: 0f7eba987cd322b4fa796647b491524e, type: 3}
+    usePool: 1
+  - id: 2501
+    comment: "\u956D\u5C04\u5B50\u5F39"
+    pfb: {fileID: 5347937730955923568, guid: 5e85cdcdf67f3264d9f4247cedc28711, type: 3}
+    usePool: 1
+  - id: 2502
+    comment: "Nova\u5B50\u5F39"
+    pfb: {fileID: 6955799513979678837, guid: 99ffa0d3dead7684aab19b80a21e11cf, type: 3}
+    usePool: 1
+  - id: 3000
+    comment: "\u9ED8\u8BA4Aoe"
+    pfb: {fileID: 2594196128376146382, guid: bff9a944d0a860f4a93540f5bcb25eb1, type: 3}
+    usePool: 1
+  - id: 3500
+    comment: "\u9ED8\u8BA4\u6A21\u578B"
+    pfb: {fileID: 4782038032190145305, guid: c11669ac4c13bba4298bf92d4ce31a2e, type: 3}
+    usePool: 1
+  - id: 3501
+    comment: "\u6218\u6597\u65B9\u5757"
+    pfb: {fileID: 9091593701071402796, guid: c431e0a252949ee48b75809c3c6dbdc1, type: 3}
+    usePool: 1
+  - id: 3502
+    comment: "\u6389\u843D\u91D1\u5E01"
+    pfb: {fileID: 7199348703806783323, guid: 14b62db992960514488669e8c3047b68, type: 3}
+    usePool: 1

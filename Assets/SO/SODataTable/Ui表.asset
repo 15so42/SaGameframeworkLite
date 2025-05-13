@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e517b785dd39b74c896e6aee850e803, type: 3}
+  m_Name: "Ui\u8868"
+  m_EditorClassIdentifier: 
+  soDataRows:
+  - id: 0
+    comment: "\u4E3B\u83DC\u5355"
+    uiPfb: {fileID: 5180499042382062592, guid: 7a8328a7a1b1fa64b996059571d7c90e, type: 3}
+    uiGroupName: Default
+    addInputLock: 0
+    priorityInGroup: 0
+  - id: 1
+    comment: FlyText
+    uiPfb: {fileID: 2572549051425422306, guid: 46d7e08f22ba65448ae5905871022131, type: 3}
+    uiGroupName: Background
+    addInputLock: 0
+    priorityInGroup: 0
+  - id: 2
+    comment: FollowingUi
+    uiPfb: {fileID: 2572549051425422306, guid: 37e1aa6a40f44684593899601829f229, type: 3}
+    uiGroupName: Background
+    addInputLock: 0
+    priorityInGroup: 0
+  - id: 3
+    comment: PlayerUiForm
+    uiPfb: {fileID: 4269636522669319512, guid: ac2855924d235c04e81208bcca11428d, type: 3}
+    uiGroupName: Background
+    addInputLock: 0
+    priorityInGroup: 1
+  - id: 4
+    comment: TipUiForm
+    uiPfb: {fileID: 5979077483063679372, guid: 35bef668f3a434f41a694fab1bfeb0e3, type: 3}
+    uiGroupName: Tip
+    addInputLock: 0
+    priorityInGroup: 0
+  - id: 5
+    comment: ChooseEnhancementUiForm
+    uiPfb: {fileID: 8470649298886582360, guid: 4ba69c4e0edf0b142a9ce722aaa674d9, type: 3}
+    uiGroupName: Window
+    addInputLock: 1
+    priorityInGroup: 0
+  - id: 6
+    comment: SettingsUiForm
+    uiPfb: {fileID: 7715847591541633199, guid: de10b47f20f2f134fb077ae5122534fc, type: 3}
+    uiGroupName: PopUpDialog
+    addInputLock: 1
+    priorityInGroup: 0
+  - id: 7
+    comment: PopUpDialog
+    uiPfb: {fileID: 4767158937098610312, guid: 9e4b9835810fc78498d78e2e69bf248d, type: 3}
+    uiGroupName: PopUpDialog
+    addInputLock: 1
+    priorityInGroup: 0
+  - id: 8
+    comment: "\u590D\u6D3B\u754C\u9762"
+    uiPfb: {fileID: 5657068008243693826, guid: 39e5c031cd9643844b5bdac541c5661e, type: 3}
+    uiGroupName: Window
+    addInputLock: 1
+    priorityInGroup: 1
+  - id: 9
+    comment: "\u6E38\u620F\u72B6\u6001\u754C\u9762"
+    uiPfb: {fileID: 5135181554506572176, guid: 150a2e96b4eb6f846bcde7c7cb3ad636, type: 3}
+    uiGroupName: Default
+    addInputLock: 0
+    priorityInGroup: 10
+  - id: 10
+    comment: "\u5BF9\u5C40\u7ED3\u7B97Ui"
+    uiPfb: {fileID: 323092226396933790, guid: 4935893ae8eb6584c92e3794b9c5d424, type: 3}
+    uiGroupName: Window
+    addInputLock: 1
+    priorityInGroup: 10

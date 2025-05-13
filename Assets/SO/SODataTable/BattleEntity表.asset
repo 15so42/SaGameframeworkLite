@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05c2c65790995224f887f4a8d56c6ce4, type: 3}
+  m_Name: "BattleEntity\u8868"
+  m_EditorClassIdentifier: 
+  soDataRows:
+  - id: 0
+    comment: "\u73A9\u5BB6"
+    entityId: 500
+    hp: 30
+    mp: 100
+    baseDamage: 5
+    defense: 0
+    moveSpeed: 500
+    actionSpeed: 100
+    moveMethod: 0
+    moveMethodSpeedParam: 10
+    rotateMethod: 0
+    rotateMethodParam: 10
+    weaponId: 0
+    armorId: 0
+    skills: []
+    buffs:
+    - AutoExplode
+    tags: []
+  - id: 1
+    comment: TestDoll
+    entityId: 501
+    hp: 100
+    mp: 100
+    baseDamage: 5
+    defense: 0
+    moveSpeed: 300
+    actionSpeed: 100
+    moveMethod: 1
+    moveMethodSpeedParam: 10
+    rotateMethod: 0
+    rotateMethodParam: 10
+    weaponId: 0
+    armorId: 0
+    skills: []
+    buffs: []
+    tags: []
+  - id: 2
+    comment: "\u91D1\u5E01\u673A"
+    entityId: 502
+    hp: 200
+    mp: 100
+    baseDamage: 5
+    defense: 0
+    moveSpeed: 300
+    actionSpeed: 100
+    moveMethod: 1
+    moveMethodSpeedParam: 10
+    rotateMethod: 0
+    rotateMethodParam: 10
+    weaponId: 0
+    armorId: 0
+    skills: []
+    buffs: []
+    tags: []
+  - id: 3
+    comment: "\u6CBB\u7597\u5854"
+    entityId: 503
+    hp: 200
+    mp: 100
+    baseDamage: 5
+    defense: 0
+    moveSpeed: 300
+    actionSpeed: 100
+    moveMethod: 1
+    moveMethodSpeedParam: 10
+    rotateMethod: 0
+    rotateMethodParam: 10
+    weaponId: 0
+    armorId: 0
+    skills: []
+    buffs: []
+    tags: []
+  - id: 4
+    comment: "\u9632\u5FA1\u5854"
+    entityId: 504
+    hp: 300
+    mp: 100
+    baseDamage: 5
+    defense: 0
+    moveSpeed: 300
+    actionSpeed: 100
+    moveMethod: 1
+    moveMethodSpeedParam: 10
+    rotateMethod: 0
+    rotateMethodParam: 10
+    weaponId: 0
+    armorId: 0
+    skills: []
+    buffs: []
+    tags: []
+  - id: 5
+    comment: "\u7814\u53D1\u7AD9"
+    entityId: 505
+    hp: 500
+    mp: 100
+    baseDamage: 5
+    defense: 0
+    moveSpeed: 300
+    actionSpeed: 100
+    moveMethod: 1
+    moveMethodSpeedParam: 10
+    rotateMethod: 0
+    rotateMethodParam: 10
+    weaponId: 0
+    armorId: 0
+    skills: []
+    buffs: []
+    tags: []
+  - id: 6
+    comment: "\u70AE\u53F0"
+    entityId: 506
+    hp: 200
+    mp: 100
+    baseDamage: 5
+    defense: 0
+    moveSpeed: 300
+    actionSpeed: 100
+    moveMethod: 1
+    moveMethodSpeedParam: 10
+    rotateMethod: 0
+    rotateMethodParam: 10
+    weaponId: 0
+    armorId: 0
+    skills: []
+    buffs: []
+    tags: []
+  - id: 7
+    comment: "\u602A\u7269"
+    entityId: 507
+    hp: 10
+    mp: 100
+    baseDamage: 10
+    defense: 0
+    moveSpeed: 300
+    actionSpeed: 100
+    moveMethod: 3
+    moveMethodSpeedParam: 10
+    rotateMethod: 0
+    rotateMethodParam: 10
+    weaponId: 0
+    armorId: 0
+    skills: []
+    buffs: []
+    tags: []

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 003d097b19e4e7c48926a696ab97a857, type: 3}
+  m_Name: FollowingUiTable
+  m_EditorClassIdentifier: 
+  soDataRows:
+  - id: 0
+    comment: HpBar
+    pfb: {fileID: 8418839176086083338, guid: 82c5703eaf4f83d4c9805411ca3d43ea, type: 3}
+    bindPointKey: HpBarFollow
+  - id: 1
+    comment: BuildingFollowing
+    pfb: {fileID: 8418839176086083338, guid: 474ec15bf2e0acb4c8caaa6b0c44f15d, type: 3}
+    bindPointKey: HpBarFollow
+  - id: 2
+    comment: "BuildingFollowing\u8054\u673A\u7248"
+    pfb: {fileID: 1229633842060331370, guid: a55b0b462ced0ac4fa0c55943b0a82eb, type: 3}
+    bindPointKey: HpBarFollow
+  - id: 3
+    comment: "PlayerFollowingUi\u8054\u673A\u7248"
+    pfb: {fileID: 6596234002374175016, guid: ac07c0ebcae9a8a4d95532d6c37a7719, type: 3}
+    bindPointKey: HpBarFollow

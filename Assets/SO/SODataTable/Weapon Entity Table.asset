@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3e3b806203661e4f8ef336d7bbf8708, type: 3}
+  m_Name: Weapon Entity Table
+  m_EditorClassIdentifier: 
+  soDataRows:
+  - id: 0
+    comment: "\u57FA\u7840\u6B66\u5668"
+    entityId: 1000
+    weaponName: 
+    hpAdd: 0
+    mpAdd: 0
+    attackAdd: 0
+    defenseAdd: 0
+    moveSpeedAdd: 0
+    actionSpeedAdd: 0
+    hpTimes: 0
+    mpTimes: 0
+    attackTimes: 0
+    defenseTimes: 0
+    moveSpeedTimes: 0
+    actionSpeedTimes: 0
+    skillPickType: 0
+    skills: []
+    buffs: []
