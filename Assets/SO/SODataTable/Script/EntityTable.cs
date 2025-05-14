@@ -12,6 +12,7 @@ public class EntityDataRow:SoDataRow
     {
         return new EntityDataRow
         {
+            id=this.id,
             pfb = this.pfb,       // 引用类型，根据需求可 Instantiate
             usePool = this.usePool
         };
